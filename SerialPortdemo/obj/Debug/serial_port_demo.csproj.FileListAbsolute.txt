@@ -1,0 +1,11 @@
+D:\software\c#project\myproject\seriaportDemo\串口demo\bin\Debug\SerialPortdemo.exe.config
+D:\software\c#project\myproject\seriaportDemo\串口demo\bin\Debug\SerialPortdemo.exe
+D:\software\c#project\myproject\seriaportDemo\串口demo\bin\Debug\SerialPortdemo.pdb
+D:\software\c#project\myproject\seriaportDemo\串口demo\obj\Debug\serial_port_demo.csproj.AssemblyReference.cache
+D:\software\c#project\myproject\seriaportDemo\串口demo\obj\Debug\串口demo.Form1.resources
+D:\software\c#project\myproject\seriaportDemo\串口demo\obj\Debug\SerialPortdemo.Properties.Resources.resources
+D:\software\c#project\myproject\seriaportDemo\串口demo\obj\Debug\serial_port_demo.csproj.GenerateResource.cache
+D:\software\c#project\myproject\seriaportDemo\串口demo\obj\Debug\serial_port_demo.csproj.CoreCompileInputs.cache
+D:\software\c#project\myproject\seriaportDemo\串口demo\obj\Debug\serial_port_demo.csproj.CopyComplete
+D:\software\c#project\myproject\seriaportDemo\串口demo\obj\Debug\SerialPortdemo.exe
+D:\software\c#project\myproject\seriaportDemo\串口demo\obj\Debug\SerialPortdemo.pdb

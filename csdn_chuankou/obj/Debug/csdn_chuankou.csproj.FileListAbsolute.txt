@@ -1,0 +1,10 @@
+D:\c#project\串口demo\csdn_chuankou\bin\Debug\csdn_chuankou.exe.config
+D:\c#project\串口demo\csdn_chuankou\bin\Debug\csdn_chuankou.exe
+D:\c#project\串口demo\csdn_chuankou\bin\Debug\csdn_chuankou.pdb
+D:\c#project\串口demo\csdn_chuankou\obj\Debug\csdn_chuankou.csproj.AssemblyReference.cache
+D:\c#project\串口demo\csdn_chuankou\obj\Debug\csdn_chuankou.Form1.resources
+D:\c#project\串口demo\csdn_chuankou\obj\Debug\csdn_chuankou.Properties.Resources.resources
+D:\c#project\串口demo\csdn_chuankou\obj\Debug\csdn_chuankou.csproj.GenerateResource.cache
+D:\c#project\串口demo\csdn_chuankou\obj\Debug\csdn_chuankou.csproj.CoreCompileInputs.cache
+D:\c#project\串口demo\csdn_chuankou\obj\Debug\csdn_chuankou.exe
+D:\c#project\串口demo\csdn_chuankou\obj\Debug\csdn_chuankou.pdb
