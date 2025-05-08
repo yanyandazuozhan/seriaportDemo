@@ -1,2 +1,3 @@
 # seriaportDemo
 串口demo
+这是一个用于串口调试收发的demo，可以结合虚拟串口工具来模拟串口通信
