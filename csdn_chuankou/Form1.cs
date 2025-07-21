@@ -225,13 +225,16 @@ namespace csdn_chuankou
                     data_ += " ";
                     if (checkBox2.Checked) //16进制发送
                     {
-                        serialPort1.Write(Encoding.Default.GetString(strToHexbytes(data_)));
+                        // 转换16进制字符串为字节数组
+                        byte[] hexBytes = strToHexbytes(data_);
+
+                        // 直接发送字节数组而不是转换为字符串
+                        serialPort1.Write(hexBytes, 0, hexBytes.Length);
                     }
                     else
                     {
                         serialPort1.Write(data_);
-                        //byte[] byteArray = Encoding.Default.GetBytes(shuju);//Str 转为 Byte值
-                        //serialPort1.Write(byteArray, 0, byteArray.Length, 0, null, null); //发送数据         
+    
                     }
                 }
 
